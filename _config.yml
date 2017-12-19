@@ -7,7 +7,7 @@ description: "机器学习不太会,深度学习不太懂,自然语言处理不�
 keyword: "BY, BY Blog, 云时之间的博客, yunshizhjijian,夏洪进, NLP,ML,Deep Learning"
 url: "https://yunshizhijian.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/yunshizhijian/YunShiZhiJian.github.io # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,10 +19,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     夏洪进
-zhihu_username:     云时之间
+zhihu_username:    you-cai-55-49
 github_username:   you-cai-55-49
 facebook_username:  云时之间
-jianshu_username:   云时之间
+jianshu_username:   7ebb78d8c38a
 #twitter_username:   云时之间
 
 
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: flase    #是否开启Gitalk评论
   clientID: 'f2c84e7629bb1446c1a4'    #生成的clientID
   clientSecret: '33cdc622139d68dc2273b818d849a348d7ac7ac8'   #同上
   repo: qiubaiying.github.io    #仓库名称
@@ -98,16 +98,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Github",
+        href: "https://yunshizhijian.github.io"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/u/7ebb78d8c38a"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "知乎",
+        href: "https://www.zhihu.com/people/you-cai-55-49
     }
 ]
