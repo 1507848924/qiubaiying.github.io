@@ -11,8 +11,8 @@ github_repo: "https://github.com/yunshizhijian/YunShiZhiJian.github.io # you cod
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "有志者事竟成!+"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "有志者事竟成!"
+sidebar-avatar: /img/home-bg-o.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: flase    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 'f2c84e7629bb1446c1a4'    #生成的clientID
   clientSecret: '33cdc622139d68dc2273b818d849a348d7ac7ac8'   #同上
   repo: qiubaiying.github.io    #仓库名称
